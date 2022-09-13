@@ -2,7 +2,7 @@
 
 Este proyecto ha sido desarrollado para participar en el primer desafío del grupo 3 del programa Desarrollo FrontEnd de Alura Latam y Oracle Next Education.
 
-**Creación del proyecto**
+**Creación del proyecto**🚧
 
 Para el desarrollo de este proyecto fueron empleados los lenguajes HTML, CSS y Javascript.
 
@@ -12,7 +12,7 @@ Consiste en ingresar un texto en el cuadro de la izquierda, teniendo en cuenta s
 
 De igual forma el texto encriptado, una vez copiado, puede ingresarse nuevamente en el cuadro de la izquierda y clickear en el botón Desencriptar, obteniendo como resultado el texto original que aparecerá de igual forma en el cuadro de la derecha.
 
-**Equivalencias en el encriptado**
+**Equivalencias en el encriptado**⌨
 
 Para lograr encriptar el mensaje, se han dispuesto de algunas equivalencias las cuales permiten que el mensaje encriptado sólo sea posible de entender si se tiene conocimiento de las mismas.
 
