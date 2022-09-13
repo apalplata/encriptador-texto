@@ -8,7 +8,7 @@ Para el desarrollo de este proyecto fueron empleados los lenguajes HTML, CSS y J
 
 **Cómo funciona?** 🔐
 
-Consiste en ingresar un texto en el cuadro de la izquierda, teniendo en cuenta sólo utilizar minúsculas y sin acentos, posteriormente clickear en el botón Encriptar para obtener como resultado el mensaje encritado que aparecerá en el cuadro de texto de la derecha. Este texto permite ser copiado utilizando el botón copiar ubicado a la derecha.
+Consiste en ingresar un texto en el cuadro de la izquierda, teniendo en cuenta sólo utilizar minúsculas y sin acentos, posteriormente clickear en el botón Encriptar para obtener como resultado el mensaje encriptado que aparecerá en el cuadro de texto de la derecha. Este texto permite ser copiado utilizando el botón copiar ubicado a la derecha.
 
 De igual forma el texto encriptado, una vez copiado, puede ingresarse nuevamente en el cuadro de la izquierda y clickear en el botón Desencriptar, obteniendo como resultado el texto original que aparecerá de igual forma en el cuadro de la derecha.
 
